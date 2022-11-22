@@ -1,0 +1,16 @@
+body{
+    background-color: gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2{
+    padding-bottom: 5px;
+    border-bottom: 1px solid;
+}
+#metkader{
+border: 1px solid;
+border-color: crimson;
+}
+.tekstNadruk{
+font-weight: 700;
+color: brown;
+}
